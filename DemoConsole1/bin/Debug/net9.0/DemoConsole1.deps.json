@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DemoConsole1/1.0.0": {
+        "dependencies": {
+          "OhMyOS": "1.0.0"
+        },
+        "runtime": {
+          "DemoConsole1.dll": {}
+        }
+      },
+      "OhMyOS/1.0.0": {
+        "runtime": {
+          "OhMyOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoConsole1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OhMyOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

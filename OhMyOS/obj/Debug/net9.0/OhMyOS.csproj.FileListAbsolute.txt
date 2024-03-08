@@ -1,0 +1,11 @@
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/bin/Debug/net9.0/OhMyOS.deps.json
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/bin/Debug/net9.0/OhMyOS.dll
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/bin/Debug/net9.0/OhMyOS.pdb
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.AssemblyInfoInputs.cache
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.AssemblyInfo.cs
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.csproj.CoreCompileInputs.cache
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.dll
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/refint/OhMyOS.dll
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.pdb
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/ref/OhMyOS.dll
