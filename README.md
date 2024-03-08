@@ -25,3 +25,8 @@
   <li>Linux -> Mouse (Unsupported)</li>
   <li>Linux -> Screen (Unsupported)</li>
 </ul>
+<h2>License</h2>
+<p>This library is under MIT License</p>
+<p>You can use this library in any of your projects</p>
+<p>Commercial usage is allowed</p>
+<p>Credit is not required but would be appreciated :)</p>
