@@ -5,6 +5,7 @@
 <p>NuGet: https://www.nuget.org/packages/OhMyOS/</p>
 <p>Wiki: https://github.com/Adisol07/OhMyOS/wiki</p>
 <p>Roadmap: https://github.com/users/Adisol07/projects/5</p>
+<h2>Features</h2>
 <p>List of supported operating systems:</p>
 <ul>
   <li>Windows</li>
