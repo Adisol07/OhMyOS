@@ -16,3 +16,12 @@
   <li>Mouse</li>
   <li>Screen</li>
 </ul>
+<p>Platform-specific components: </p>
+<ul>
+  <li>Windows -> Mouse</li>
+  <li>Windows -> Screen</li>
+  <li>MacOS -> Mouse</li>
+  <li>MacOS -> Screen</li>
+  <li>Linux -> Mouse (Unsupported)</li>
+  <li>Linux -> Screen (Unsupported)</li>
+</ul>
