@@ -4,7 +4,7 @@
 <p>This library allows you to interact with supported operating systems without other platform specific libraries or code</p>
 <p>NuGet: Coming Soon</p>
 <p>Wiki: Coming Soon</p>
-<p>Roadmap: [OhMyOS Roadmap](https://github.com/users/Adisol07/projects/5)</p>
+<p>Roadmap: https://github.com/users/Adisol07/projects/5</p>
 <p>List of supported operating systems:</p>
 <ul>
   <li>Windows</li>
