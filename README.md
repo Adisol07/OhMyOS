@@ -1,5 +1,6 @@
 # OhMyOS
 > State: Development
+> Version: 0.0.0
 <p>This library allows you to interact with supported operating systems without other platform specific libraries or code</p>
 <p>NuGet: Coming Soon</p>
 <p>Wiki: Coming Soon</p>
