@@ -9,3 +9,4 @@
 /Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/refint/OhMyOS.dll
 /Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.pdb
 /Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/ref/OhMyOS.dll
+/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/obj/Debug/net9.0/OhMyOS.sourcelink.json

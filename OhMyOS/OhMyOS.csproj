@@ -1,9 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
+    <TargetFrameworks>net9.0;net8.0;net7.0;net6.0</TargetFrameworks>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>OhMyOS</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Adisol</Authors>
+    <Product>OhMyOS</Product>
+    <Description>
+      OhMyOS is library for interacting with operating system without platform specific code
+    </Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <repositoryurl>https://github.com/Adisol07/OhMyOS.git</repositoryurl>
+    <PackageTags>OhMyOS;OS;Windows;MacOS;Linux;Operating System;Operating-System;Platform;Crossplatform;Multiplatform</PackageTags>
+    <Title>OhMyOS</Title>
   </PropertyGroup>
 
 </Project>

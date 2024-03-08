@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "gcnw4WP2WutrK2IeVudw+GK++Om6EaWUWVV7/AMAW3GrOX6lTi0Q90krwNIcGCMHIFGgDtdODRTZXeezD6VBjg==",
+  "dgSpecHash": "eiOIreRzUNcAdrhNuiDA/UCBLfS+ifAWDHR5hF85h/VIl6SmiHhkFxdc6o+/e4Ju1Dc1AcFnW5AjJtgM2rKCRQ==",
   "success": true,
   "projectFilePath": "/Users/adisol/Documents/Projects/OhMyOS/OhMyOS/OhMyOS.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/adisol/.nuget/packages/microsoft.netcore.app.ref/8.0.1/microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/adisol/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
